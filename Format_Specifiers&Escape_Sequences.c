@@ -16,5 +16,8 @@ printf("The Value of a is %d and b is %d\n", a, b);
 //%LF - long double
 
 printf("Here is the define value of PI is %d", PI);
+
+printf("My Backslash is \\n");
+printf("sound is \a");
 return 0;
 }
